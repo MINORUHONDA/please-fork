@@ -1,4 +1,4 @@
 # please-fork
 FORK用リポジトリです．(Git講座用)
-no fast forwardを試す
+この変更は別ブランチでも変更済み
 
